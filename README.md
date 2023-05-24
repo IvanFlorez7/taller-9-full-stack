@@ -1,5 +1,4 @@
 <h1>TALLER 9: Iván Flórez</h1>
-<hr>
 
 <h1>Información</h1><br>
 
