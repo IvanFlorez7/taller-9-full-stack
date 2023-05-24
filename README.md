@@ -1,6 +1,8 @@
 <h1>TALLER 9: Iván Flórez</h1>
 <hr>
 
+<h1>Información</h1><br>
+
 <p>Curso: Full Stack Básico - Grupo 1</p> <br>
 <p>Profesor: Crístian Patiño</p>
 
