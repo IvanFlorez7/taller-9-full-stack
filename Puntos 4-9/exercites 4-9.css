@@ -1,0 +1,59 @@
+.blue_letter {
+    color: blue;
+    font-family: "Arial Black";
+    text-align: center;
+  }
+  
+  .red_letter {
+    color: red;
+    font-family: "Arial Black";
+    text-align: center;
+  }
+  
+  .style_letter u_1 {
+    color: #90FF33;
+  }
+  
+  .style_letter strong {
+    color: red;
+  }
+  .style_letter b {
+     font-family:"Arial Black"
+   }
+   strong_1 {
+    font-weight: bold;
+    color: blue;
+  }
+   b_2{
+     font-weight: bold;
+     color: red;
+     
+   }
+   
+   .Marca{
+     color: yellow;
+   }
+  .As{
+    color: purple;
+  }
+  
+  footer{
+    display: flex;
+    background-color: pink;
+    width:480px;
+    height:50px;
+    align-items: center;
+    list-style: none;
+    cursor: pointer;
+    gap: 30px;
+   }
+    a{
+      color: white;
+    }
+    a_1{
+      color: white;
+      padding: 05px 05px;
+      background-color: blue;
+      align-items: center;
+      margin:10px
+    }

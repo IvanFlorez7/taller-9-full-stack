@@ -1,0 +1,117 @@
+/* ESTILOS GLOBALES*/
+
+body {
+    margin: 0px;
+}
+
+a {
+    font-family: "jost";
+    font-size: 18px;
+}
+
+button {
+    padding: 12px 25px;
+    font-family: "jost";
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button--orange{
+    margin-right: 10px;
+    background-color: #FD909E;
+    color: #FFF;
+    border: none;
+}
+.button--white{
+    padding: 12px 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid #fff;
+}
+
+p{
+    font-family: "jost";
+    font-weight: 300px;
+    font-size: 15px;
+ }
+
+/* ESTILOS HEADERS*/
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+
+.header_navigation {
+    display: flex;
+    align-items: center;
+
+}
+
+.header_navigation nav ul {
+    list-style: none;
+    display: flex;
+    gap: 45px;
+
+}
+
+.header_navigation nav ul li a {
+    text-decoration: none;
+    color: #454868;
+}
+
+.header_settings {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.header_settings div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: "jost";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.header_settings button {
+    background-color: transparent;
+    border: 1px solid #45486854;
+}
+
+/* ESTILOS BANNER*/
+
+#banner{
+    display:flex;
+    margin: 25px 100px;
+    padding: 90px 80px;
+    background: linear-gradient(313.18deg, #EE9AE5 3.28%, #5961F9 97.04%);
+    border-radius: 48px  48px   300px  48px;
+}
+
+h1{
+    margin: 0px;
+    font-family: "jost";
+    font-size: 60px;
+    font-weight: 600px;
+    color: #fff;
+    line-height: 70px;
+    letter-spacing: -0.64px;
+
+}
+
+#banner p{
+    margin: 25px  0 px;
+    color: #fff;
+}
+
+/* ESTILOS SECTION 1*/
+
+#section-1{
+    margin: 25px 100px;
+    justify-content: space-between;
+    display: flex;
+    padding: 20px 80px;
+}
