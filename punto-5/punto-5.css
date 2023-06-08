@@ -1,0 +1,36 @@
+.style_letter {
+    margin: 0px 10px;
+    text-align: center;
+  }
+  
+  .style_letter u_1 {
+    color: #90FF33;
+  }
+  
+  .style_letter strong {
+    color: red;
+  }
+  
+  .style_letter b {
+    font-family: "Arial Black"
+  }
+  
+  .strong_1 {
+    font-weight: bold;
+    color: blue;
+  }
+  
+  .b_2 {
+    font-weight: bold;
+    color: red;
+  
+  }
+  
+  .Marca {
+    color: yellow;
+  }
+  
+  .As {
+    color: purple;
+  }
+  
