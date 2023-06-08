@@ -33,6 +33,10 @@
         
 }
 
+.section-1__card-down{
+    margin-top: 50px;
+}
+
 .section-1__card h3 {
     font-family: "jost";
     color: #454868;
