@@ -1,0 +1,28 @@
+
+.hover h3 {
+    
+    display:flex;
+    font-family: "jost";
+    flex-direction:column;
+    align-items:center;
+   
+}
+
+.Marca {
+
+    display:flex;
+    font-family: "jost";
+    flex-direction:column;
+    align-items:center;
+    color: rgba(255, 255, 0, 0.925);
+    cursor:progress;
+  }
+  
+  .As {
+    display: flex;
+    font-family: "jost";
+    flex-direction: column;
+    align-items: center;
+    color: purple;
+    cursor:pointer;
+  }
