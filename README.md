@@ -10,6 +10,6 @@
 <a href="https://www.figma.com/file/HnKQ5d4eBpjMSV7HWw3Vk0/RITA-Iv%C3%A1n-Fl%C3%B3rez?type=design&node-id=0-1&t=diEJ0YGXais14xRL-0" target="_blank"> Link de figma</a>
 
 <h2> Punto 2: HTML</h2>
-<img src="./public/images/Page%20complete.png"
-     alt = "htm">
+<img src="./public/images/Imagen%20page_css.png" alt = "htm">
+
 </div>

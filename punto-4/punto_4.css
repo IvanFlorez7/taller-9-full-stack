@@ -1,6 +1,15 @@
-.blue {
-    color:blue;
+.TITLE {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    
 }
+
+.blue {
+    color: blue;
+}
+
 .red {
     color: red;
 }
